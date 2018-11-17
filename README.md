@@ -1,2 +1,3 @@
-# sif-simulado
-Simulado para alunos dos 8° e 9º anos
+# SIF-Simulado IFRN
+
+Sistema de simulado para alunos do ifrn
